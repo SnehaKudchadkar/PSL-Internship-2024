@@ -17,15 +17,17 @@ Real-time Processing: Ensures that the chatbot can process queries and provide r
 
 # Technologies Used:
 Python
+
 NLP Libraries (e.g., NLTK, SpaCy)
+
 Machine Learning Frameworks (e.g., Scikit-learn, TensorFlow)
+
 Flask (for backend API integration)
+
 RESTful APIs
+
 Git & GitHub (for version control)
-Getting Started:
-Clone this repository: git clone https://github.com/your-username/your-repository-name.git
-Install dependencies: pip install -r requirements.txt
-Run the chatbot: python chatbot.py
+
 
 # Commands
 pip install fuzzywuzzy python-Levenshtein
